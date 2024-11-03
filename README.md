@@ -50,7 +50,3 @@ sudo python traceroute.py -d google.com -m 15
 
 - **Root/administrator privileges** are required because this script uses raw sockets to send ICMP packets.
 - This script is intended for educational purposes and may not work on all networks, as some networks or devices might block ICMP traffic.
-
-## License
-
-This script is provided under the MIT License.
